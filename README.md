@@ -1,31 +1,42 @@
-#🎵 Hydra Music Bot
+# 🎵 Hydra Music Bot
+
 Hydra is a powerful and user-friendly Discord music bot that streams high-quality music directly into your voice channels. With support for platforms like YouTube and Spotify, and advanced features like 8D audio and autoplay, Hydra is the perfect companion for any music-loving server.
 
-✅ Prefix-only bot — All commands use the & prefix (no slash commands)
+> ✅ **Prefix-only bot** — All commands use the `&` prefix (no slash commands)
 
-🌟 Free Features
-🎧 High-quality music playback
-🔍 Search and play from YouTube, Spotify, SoundCloud, and more
-📃 Advanced queue system
-⏯️ Playback controls: play, pause, skip, stop
-🔁 Loop and shuffle options
-📡 24/7 mode to keep music running nonstop
-🛠️ Customizable prefix and permissions
-💎 Premium Features
+---
+
+## 🌟 Free Features
+
+- 🎧 High-quality music playback
+- 🔍 Search and play from YouTube, Spotify, SoundCloud, and more
+- 📃 Advanced queue system
+- ⏯️ Playback controls: play, pause, skip, stop
+- 🔁 Loop and shuffle options
+- 📡 24/7 mode to keep music running nonstop
+- 🛠️ Customizable prefix and permissions
+
+## 💎 Premium Features
+
 Take your server's music experience to the next level:
 
-🌀 8D Audio – Immersive surround-sound-style music effect
-🔁 Autoplay – Automatically plays related tracks when the queue ends
-🚀 Faster response and reduced cooldowns
-🎶 Priority access to playback and queue
-👉 Upgrade to Premium
+- 🌀 **8D Audio** – Immersive surround-sound-style music effect  
+- 🔁 **Autoplay** – Automatically plays related tracks when the queue ends  
+- 🚀 Faster response and reduced cooldowns  
+- 🎶 Priority access to playback and queue
 
-🚀 Getting Started
-Invite Hydra to your server
-Join a voice channel
-Use the &play command to start listening!
+[👉 Upgrade to Premium](https://your-premium-link.com)
+
+---
+
+## 🚀 Getting Started
+
+1. **Invite Hydra to your server**
+2. **Join a voice channel**
+3. Use the `&play` command to start listening!
+
 Example:
-
+```bash
 &play Blinding Lights
 🔧 Command List
 Command	Description
@@ -55,27 +66,3 @@ Join our Support Server to get assistance or suggest new features!
 
 Hydra – The sound of your server, upgraded.
 🎶 Made with love for the Discord community.
-About
-music bot
-
-Resources
- Readme
-License
- MIT license
- Activity
-Stars
- 0 stars
-Watchers
- 1 watching
-Forks
- 0 forks
-Releases
-No releases published
-Create a new release
-Packages
-No packages published
-Publish your first package
-Footer
-© 2025 GitHub, Inc.
-Footer navigation
-Term
